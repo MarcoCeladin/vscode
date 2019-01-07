@@ -1,8 +1,8 @@
 # vscode
 all we need for vscode
+
 //vscode set di icone
-https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons
-https://marketplace.visualstudio.com/items?itemName=pkief.material-icon-theme
+[https://marketplace.visualstudio.com/items?itemName=pkief.material-icon-theme](Material Icons)
 
 //vscode comment allert
 https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments

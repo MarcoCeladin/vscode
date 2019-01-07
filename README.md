@@ -2,13 +2,14 @@
 all we need for vscode
 
 ## Set di icone
-[Material Icons](https://marketplace.visualstudio.com/items?itemName=pkief.material-icon-theme) aiuto visuale per riconoscere i vari tipi di file
+[Material Icons](https://marketplace.visualstudio.com/items?itemName=pkief.material-icon-theme) <br>
+Aiuto visuale per riconoscere i vari tipi di file
 
 ## Ottime estensioni (testate)
 [TS Lint](https://marketplace.visualstudio.com/items?itemName=eg2.tslint) Lint for TS **OBBLIGATORIO**.
 
 [Comment Allert](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) <br>
-Aggiungiungendo (! , ? , ** , TODO) ai commenti e li colora in maniera evidente.
+Aggiungendo (! , ? , ** , TODO) ai commenti e li colora in maniera evidente.
 
 [Bracket](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)<br>
 Colora le parentesi e ne evidenzia lo scope.
@@ -42,3 +43,6 @@ https://marketplace.visualstudio.com/items?itemName=infinity1207.angular2-switch
 
 //vscode extension buone ma non usate un po rotte
 https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek
+
+//TODO mancano istruzioni fira code
+e https://marketplace.visualstudio.com/items?itemName=AngularDoc.angulardoc-vscode

@@ -46,3 +46,6 @@ https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek
 
 //TODO mancano istruzioni fira code
 e https://marketplace.visualstudio.com/items?itemName=AngularDoc.angulardoc-vscode
+
+e Markdown Preview Github Styling
+markdownlint
